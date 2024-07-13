@@ -19,10 +19,15 @@ This project is a responsive website template for a digital marketing agency. It
 
 To run this project, you'll need a web browser and an internet connection.
 
-### Installation
+=
+## File Structure
+
+The project is organized with the following directory structure:
+
 
 yourrepository/
-├── images/
+.
+├──  images       
 │   ├── 1.png
 │   ├── 2.png
 │   ├── 3.png
