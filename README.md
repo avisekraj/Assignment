@@ -17,7 +17,7 @@ This project is a responsive website template for a digital marketing agency. It
 
 ### Prerequisites
 
-To run this project, you'll need a web browser and an internet connection.
+HTML,CSS,BOOTSTRAP,JQUERY
 
 =
 ## File Structure
